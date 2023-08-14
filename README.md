@@ -51,3 +51,12 @@
 
 
 <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats" style="max-width: 100%;"></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Minhas estatísticas do GitHub" style="max-width: 100%;"></a></td>
+
+
+
+
+
+
+
+
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/raw/main/imgs/bottom_header.svg" alt="" style="max-width: 100%;">
