@@ -9,7 +9,15 @@
 ##
 <h3><b><samp>Habilidades!</samp></b></h3>
 
-<a href="https://www.postgresql.org" rel="nofollow"> <img src="/manumanoj0010/manumanoj0010/raw/main/images/postgresql.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
+
+           
+
+           
+
+          
+
+     
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bfde91f425cddc4b06f6a15c2ae50d90a64008c3b05f9733123127e039ffcdf6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/bfde91f425cddc4b06f6a15c2ae50d90a64008c3b05f9733123127e039ffcdf6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2d776f72646d61726b2e737667" width="50px" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="max-width: 100%;"></a>                                   
 <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="janela de encaixe" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"> </a>
