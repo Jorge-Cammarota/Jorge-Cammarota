@@ -9,7 +9,7 @@
 ##
 <h3><b><samp>Habilidades!</samp></b></h3>
 
-
+<a href="https://www.postgresql.org" rel="nofollow"> <img src="/manumanoj0010/manumanoj0010/raw/main/images/postgresql.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="janela de encaixe" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"> </a>
